@@ -6,7 +6,7 @@ C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Co
 C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.ConsoleApp.pdb
 C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Models.dll
 C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Models.pdb
-C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.csprojAssemblyReference.cache
+C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.csproj.AssemblyReference.cache
 C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.AssemblyInfoInputs.cache
 C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.AssemblyInfo.cs
 C:\TodoApp\TodoApp\TodoApp\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.csproj.CoreCompileInputs.cache

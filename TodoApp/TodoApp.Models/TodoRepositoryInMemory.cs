@@ -10,9 +10,9 @@ namespace TodoApp.Models
         {
             _todos = new List<Todo>
             {
-                new Todo { Id = 1, Title = "ASP.NET Core 학습", IsDone = false },
-                new Todo { Id = 2, Title = "Blazor 학습", IsDone = false },
-                new Todo { Id = 3, Title = "C# 학습", IsDone = true }
+                new Todo {Id = 1, Title = "ASP.NET cor 학습", IsDone = false},
+                new Todo {Id = 2, Title = "BLAZOR 학습", IsDone = false},
+                new Todo {Id = 3, Title = "C# 학습", IsDone = true},
             };
         }
         public void Add(Todo model)
